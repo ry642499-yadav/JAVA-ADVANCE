@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<modules>
-  <module moduleId="org.eclipse.jst.jee.server:SessionDemo" serverId="Tomcat v11.0 Server at localhost"/>
-  <module moduleId="org.eclipse.jst.jee.server:ServelantMethod" serverId="Tomcat v11.0 Server at localhost"/>
-  <module moduleId="org.eclipse.jst.jee.server:SeconProject" serverId="Tomcat v11.0 Server at localhost"/>
-  <module moduleId="org.eclipse.jst.jee.server:JDBC__DB" serverId="Tomcat v11.0 Server at localhost"/>
-  <module moduleId="org.eclipse.jst.jee.server:Experiment1" serverId="Tomcat v11.0 Server at localhost"/>
-</modules>
